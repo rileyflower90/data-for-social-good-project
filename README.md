@@ -30,10 +30,11 @@ Dataset: https://docs.google.com/spreadsheets/d/1vP4nwOebYzVQGHiZ2hkBkdAnB9ZwJgf
 
 ## UML Diagram 
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README. 
 
-![UML Diagram for my project](nameOfImageFileHere.png) 
+![alt text](image.png) 
+
 
 ## Description 
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+In our project, the user story that we created is, as a Pro Youtuber, I want to make a lot of Youtube videos, so that I can receive a Gold Youtube Button. Our project works by displaying the best categories that get the most views, best number of subscribers, and the category with the most subscriber-to-view ratio that leads to the Gold Youtube Button. My process of creating this project was that I used the datset which showed each Youtube User and their factors including subscribers, views, likes, and etc, and I traversed all of this information into my coding, which I set as a Text file, and also sorted them into the right files, which included my 1d arrays. My project addressed the dataset in the users goals by taking the following information: Traversed number of subs, traversed number of views, and the category, and we used all of this data to help figure out the best chance for people to receive a Gold Youtube Button. 
+
